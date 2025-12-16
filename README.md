@@ -1,2 +1,3 @@
-# PLK-bolka-AI
-A clone of Balabolka - with cross-platform compatibility and some AI features......
+# Balabolka AI Clone
+
+Cross-platform TTS/STT desktop application.
